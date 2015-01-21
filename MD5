@@ -1,9 +1,8 @@
-b234ee4d69f5fce4486a80fdaf4a4263 *COPYING
-88e228e45cd41145e79390d037510b6b *DESCRIPTION
+fa3197e4cb16b649c7b6e062acb9a87e *DESCRIPTION
 98a6ea18efed0e878690ec0a6d11e0ed *NAMESPACE
-895125dd698ce468bd0e6028814d3e69 *NEWS
-289e2e5dc4270d59c0a7a21123b9ae3e *R/cec2013.R
-c28d6a75fd0d3fa4405a5608074645d8 *inst/CITATION
+b85a621160962888b1efc4cfec33bce2 *NEWS
+218c22ede1e39ea2e2ca70fa79d83dd8 *R/cec2013.R
+f97136a2a4bdef951c634d5446c0bf99 *inst/CITATION
 7520891995f94601da636913657cdb51 *inst/extdata/M_D10.txt
 4bc790992bf90b07f9eac27fe435e58f *inst/extdata/M_D100.txt
 862a4bf9d201f0540c2fc2b28de465b4 *inst/extdata/M_D2.txt
@@ -17,6 +16,6 @@ a7345012ade373020971944d902800a7 *inst/extdata/M_D40.txt
 5c29b0ab19eaabbf1773ca77321bb717 *inst/extdata/M_D80.txt
 b7d5b10bdf5023ec743fa31fdfd95beb *inst/extdata/M_D90.txt
 e8dbd8f7996db46e79d79b228a7dc167 *inst/extdata/shift_data.txt
-c4e63fe7981d1ffbbd73cdcb73ae2e6a *man/cec2013.Rd
-ee91fa5ae6121597996d4fe23fa18818 *src/cec2013.c
+b0850a71c1719a279f7307f4e243f919 *man/cec2013.Rd
+56ee2de17e9574e4850a92106b9d1bbf *src/cec2013.c
 42aeeae21c121b257873037ef58b3090 *src/test_func.c
